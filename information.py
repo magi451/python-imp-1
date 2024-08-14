@@ -17,7 +17,7 @@ while True:
     print(output_string)
 """example :
 in output if you enter a3d10
-the out put will be
+the output will be
 aaaddddddddd
 3 a's and 10 d's
 """
